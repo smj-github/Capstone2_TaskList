@@ -1,0 +1,11 @@
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.exe
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.deps.json
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.runtimeconfig.json
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.runtimeconfig.dev.json
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.dll
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.pdb
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.csprojAssemblyReference.cache
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.AssemblyInfoInputs.cache
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.AssemblyInfo.cs
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.dll
+C:\Sumana\Study\GC-C#.NetBootcamp\Day10\Capstone_TaskList\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.pdb
